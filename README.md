@@ -1,6 +1,57 @@
 # FE-Interview-Record
-프론트엔드 기술면접 기록
+프론트엔드 기술면접 스터디
 
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="" target="_blank">
+       <img src="" alt="닉네임"/>
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="" target="_blank">
+        <img src="" alt="닉네임" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/jutrong" target="_blank">
+        <img src="https://github.com/jutrong/jutrong/assets/113658811/3f527346-2d16-4395-bd1b-7eba9ac506e3" alt="주트롱 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="" target="_blank">
+        <img src="" alt="닉네임" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/a-honey" target="_blank">
+        닉네임
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/honki12345" target="_blank">
+        닉네임
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/jutrong" target="_blank">
+        주트롱
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jiyoon-lee" target="_blank">
+        닉네임
+      </a>
+    </td>
+  </tr>
+</table>
+
+- 2024년 3월 07일 ~
+- 주 1회 목요일 22시 
+- 랜덤 번호 추첨 후 한 명씩 답변
+- 다음 스터디까지 README에 정리된 답변 PR
 
 ## 1주차
 ### 💻 CS 
