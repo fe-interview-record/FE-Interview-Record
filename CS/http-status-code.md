@@ -34,3 +34,6 @@ HTTP 1.0에서는 지원되지 않는다.
 ## 5XX
 서버 에러
 
+# 참조
+https://www.whatap.io/ko/blog/40/
+
