@@ -20,8 +20,8 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="" target="_blank">
-        <img src="" alt="닉네임" />
+      <a href="https://github.com/coddingyun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/81891345?s=400&u=2d640fd3563793299b45ac0f8d30fc8a1815985f&v=4" alt="coddingyun 프로필" />
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/jiyoon-lee" target="_blank">
-        닉네임
+        coddingyun
       </a>
     </td>
   </tr>
