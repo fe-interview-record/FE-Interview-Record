@@ -64,7 +64,7 @@
 
 - CSR과 SSR의 차이점에 대해 말씀해주세요.
 - [주소창에 www.google.com을 치면 일어나는 일련의 과정에 대해 설명해주세요.](https://github.com/fe-interview-record/FE-Interview-Record/blob/jin/1week/CS/process-www.google.com-browser.md)
-- 라이브러리, 프레임워크의 정의를 간단하게 해보고 차이점 말씀해주세요.
+- [라이브러리, 프레임워크의 정의를 간단하게 해보고 차이점 말씀해주세요.](https://github.com/fe-interview-record/FE-Interview-Record/CS/library-framework.md)
 - [REST API에 대해 설명해주세요.](<(https://github.com/fe-interview-record/FE-Interview-Record/CS/rest-api.md)>)
 - CORS에러 발생시 클라이언트 쪽에서 해결할 수 있는 방법이 뭐라고 생각하시나요.
 - [HTTP 상태코드에 대해서 이야기해주세요](https://github.com/fe-interview-record/FE-Interview-Record/CS/http-status-code.md)
