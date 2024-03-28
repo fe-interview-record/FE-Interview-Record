@@ -68,11 +68,11 @@
 
 </br>
 
-- 클로저란 무엇인가 설명해주세요.
+- [클로저란 무엇인가 설명해주세요.](https://github.com/fe-interview-record/FE-Interview-Record/blob/main/CS/closure.md)
 - this가 동적으로 바인딩되는 상황에 대해 설명해주세요.
 - Promise의 후속처리 메서드와 상태를 각각 설명해주세요.
 - 콜백지옥을 해결할 수 있는 방법을 설명해주세요.
 - ES6와 CommonJS는 무엇이고, 이것들에 대해 어떻게 생각하시나요?
 - AJAX에 관해 가능한 한 자세히 설명하세요.
 - .call과 .apply의 차이점은 무엇인가요?
-- [싱글스레드 언어인 자바스크립트가 비동기처리가 될 수 있는 그 배경을 설명해주세요.]((https://github.com/fe-interview-record/FE-Interview-Record/blob/main/CS/js-async.md))
+- [싱글스레드 언어인 자바스크립트가 비동기처리가 될 수 있는 그 배경을 설명해주세요.](https://github.com/fe-interview-record/FE-Interview-Record/blob/main/CS/js-async.md)
